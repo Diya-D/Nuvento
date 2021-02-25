@@ -1,0 +1,139 @@
+.div1{
+  
+  background-image:  url("./images/water.jpg");
+  
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: auto;
+  height: 300px;
+  
+}
+.div1 p{
+  text-align: right;
+  color: #ddd;
+  padding-right: 200px;
+}
+.div1 h1{
+  color: #ddd;
+  font-style:normal;
+  text-align: center;
+  
+ 
+}
+.navbar {
+    padding: 39px;
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+  }
+  .navbar h2 {
+   margin-bottom: 1px;
+    color:white;
+    font-family:"Quicksand";
+    border-radius: 3px;
+ 
+  }
+  .navbar .links {
+    margin-left: auto;
+  }
+  .navbar a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+  }
+  
+  .listpreview a{
+      text-decoration: none;
+       
+  }
+  .listpreview h2,p{
+    font-size:20px;
+   color:rgb(24, 22, 22);
+   font-style: oblique;
+    font-family: "Quicksand";
+   
+  }
+  .listpreview h1{
+    font-size: 50px;
+    font-style: oblique;
+    font-family: "Quicksand";
+  }
+  .grid{
+    background-color: transparent;
+  }
+  #grid{
+    background-image: url('./images/forest3.jpg');
+    border-radius: 25px;
+  
+
+  }
+
+
+  .article{
+      font-family: "Papyrus";
+      word-spacing: 7px;
+      letter-spacing: 1px;
+      
+    }
+    .article p {
+   font-size: 20px;
+   color:black;
+   text-align: justify;
+    }
+
+    .body{
+        padding: 20px 100px;
+    }
+
+    .create,.update {
+      max-width: 400px;
+      margin: 50px auto;
+      text-align: center;
+      
+    }
+   
+
+    .create h2,.update h2 {
+      font-size: 20px;
+      color: #f1356d;
+      margin-bottom: 30px;
+    }
+    .create input,.create textarea,.create select,.update input,.update textarea,.update select {
+      width: 100%;
+      padding: 6px 10px;
+      margin: 10px 0;
+      border: 1px solid #ddd;
+      box-sizing: border-box;
+      display: block;
+      
+    }
+    .create button,.update button {
+      background:rgb(107, 106, 106);;
+      color: white;
+      border: 0;
+      padding: 8px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .contact{
+      background-color: #1b1b1b
+     
+    }
+    .contact p {
+      text-align: center;
+      color: whitesmoke;
+      font-size: .85rem!important;
+    }
+    .article button{
+      background:rgb(107, 106, 106);;
+      color: white;
+      border: 0;
+      padding: 8px;
+      border-radius: 10px;
+      cursor: pointer;
+      position: relative;
+    }
+    
+    
